@@ -1,4 +1,4 @@
-# 🧪 Potassium-Ion Battery Anode V2 — Simulated Design  
+Potassium-Ion Battery Anode V2 — Simulated Design  
 > *"43% N-doped porous carbon + 36% ZnO QDs + 2% K⁺ + 19% 3D Graphene Aerogel — Ultra-Stable, High-Rate, <3% Expansion"*
 
 ![Simulation](https://via.placeholder.com/800x300?text=Simulated+KIB+Anode+V2+-+High+Performance)  
