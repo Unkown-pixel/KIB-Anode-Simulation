@@ -2,7 +2,7 @@
 
 You’re welcome to:
 
-- Fork this repo and simulate V3 (e.g., add MXene, swap dopants)
+- Fork this repo and simulate V4 (e.g., add MXene, swap dopants)
 - Validate experimentally and PR your data
 - Optimize the manufacturing protocol
 - Translate the README into other languages
