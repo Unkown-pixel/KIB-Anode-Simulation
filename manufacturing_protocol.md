@@ -1,4 +1,4 @@
-🧪 SIMULATED MANUFACTURING PROTOCOL — FOR INSPIRATION ONLY
+ SIMULATED MANUFACTURING PROTOCOL — FOR INSPIRATION ONLY
 
 This is a *simulated* material. No synthesis has been performed.
 But if you want to try building it, here’s a hypothetical scalable route:
